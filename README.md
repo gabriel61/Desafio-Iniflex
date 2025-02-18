@@ -43,7 +43,7 @@ O projeto foi desenvolvido para atender **todos os requisitos abaixo**:
 ### Funcionalidades do Menu
 | Opção | Requisito Atendido | Descrição |
 |-------|--------------------|-----------|
-| 1     | 3.1                | Insere funcionários (ordem da tabela). |
+| 1     | 3.1 e 3.2          | Insere funcionários (ordem da tabela) e remove João. |
 | 2     | 3.3                | Lista todos formatados (data e salário). |
 | 3     | 3.4                | Aplica aumento de 10%. |
 | 4     | 3.5 e 3.6          | Agrupa e imprime por função. |
