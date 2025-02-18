@@ -75,7 +75,9 @@ public class Main {
                     dados[3]
             ));
         }
-        System.out.println("Funcionários cadastrados com sucesso.");
+
+        service.removerFuncionarioPorNome("João");
+        System.out.println("Funcionários cadastrados com sucesso (João removido).");
     }
 
     private static void listarFuncionarios(FuncionarioService service) {
